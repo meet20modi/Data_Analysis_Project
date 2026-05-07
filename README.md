@@ -1,13 +1,12 @@
 # Data_Analysis_Project
-Customer Shopping Behavior Analytics Using Python,Mysql,PowerBi And Other AI Tool
+Customer Shopping Behavior Analytics Using Python , Mysql , PowerBi And Other AI Tool
 
-📊 Data Analytics Project
-🔍 Overview
+Data Analytics Project Overview
 
 This project demonstrates a complete end-to-end data analytics workflow — from raw data processing to insight generation and visualization.
 The objective is to analyze the dataset, uncover patterns, and present meaningful insights using dashboards and reports.
 
-📁 Dataset
+Dataset
 Structured dataset containing both categorical and numerical data
 Imported into Python for preprocessing
 Cleaned and stored in a MySQL database for analysis
@@ -51,12 +50,12 @@ Included KPIs, charts, and filters for better analysis
 Prepared a detailed analytical report
 Created a professional presentation using Gamma
 
-📊 Dashboard
+Dashboard
 Interactive visuals and KPIs
 Easy-to-understand layout
 Supports data-driven decision-making
 
-📈 Results & Insights
+Results & Insights
 Extracted meaningful insights from raw data
 Improved data quality through preprocessing
 Used SQL queries to answer business questions
